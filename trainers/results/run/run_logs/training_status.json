@@ -1,0 +1,47 @@
+{
+    "RL_Agnet": {
+        "checkpoints": [
+            {
+                "steps": 17550,
+                "file_path": "results\\run\\RL_Agnet\\RL_Agnet-17550.onnx",
+                "reward": null,
+                "creation_time": 1696134338.1811602,
+                "auxillary_file_paths": [
+                    "results\\run\\RL_Agnet\\RL_Agnet-17550.pt"
+                ]
+            },
+            {
+                "steps": 499998,
+                "file_path": "results\\run\\RL_Agnet\\RL_Agnet-499998.onnx",
+                "reward": 9.746666540702185,
+                "creation_time": 1696138679.6792383,
+                "auxillary_file_paths": [
+                    "results\\run\\RL_Agnet\\RL_Agnet-499998.pt"
+                ]
+            },
+            {
+                "steps": 524601,
+                "file_path": "results\\run\\RL_Agnet\\RL_Agnet-524601.onnx",
+                "reward": null,
+                "creation_time": 1696138905.8984365,
+                "auxillary_file_paths": [
+                    "results\\run\\RL_Agnet\\RL_Agnet-524601.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 524601,
+            "file_path": "results\\run\\RL_Agnet.onnx",
+            "reward": null,
+            "creation_time": 1696138905.8984365,
+            "auxillary_file_paths": [
+                "results\\run\\RL_Agnet\\RL_Agnet-524601.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.0+cu117"
+    }
+}
